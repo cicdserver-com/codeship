@@ -1,2 +1,2 @@
-# codeship
-Files for Codeship.
+# jenkins
+Files for jenkins-ci.
